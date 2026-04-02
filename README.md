@@ -42,12 +42,15 @@ I am a **Data Science** enthusiast dedicated to building efficient, data-driven 
 
 ---
 
-## 🏗️ Notable Repositories
-| Project | Description | Tech |
+## 🏗️ Notable Projects
+| Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Data-Science-Projects** | Analysis and predictive modeling using Python. | Python / Jupyter |
-| **DSA-Solutions** | Optimized solutions for coding challenges. | C++ |
-| **Web-Dev** | Responsive frontend designs and interfaces. | HTML / CSS |
+| **🤖 Cazz-Karo LLM** | An intelligent chatbot leveraging Large Language Models for natural conversations. | Python, LLM, API |
+| **📊 Data Science & ML** | Comprehensive implementation of ML algorithms from regression to neural networks. | Python, Scikit-learn |
+| **💳 Credit Management** | A full-scale system to manage and process credit card applications efficiently. | Java/C++, SQL |
+| **🔗 Langchain AI** | Exploring AI agents and chain-of-thought workflows using the Langchain framework. | Python, Langchain |
+| **📱 Expense Tracker** | A personal finance tool designed to track and categorize daily spending patterns. | Python, Data Viz |
+| **✈️ My Flight** | A travel management application focused on user experience and data flow. | HTML/CSS, JS |
 
 ---
 
