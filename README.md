@@ -1,75 +1,60 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=150&section=header&text=Manish%20Kumar%20Mahato&fontSize=50&animation=fadeIn" width="100%"/>
+
+  ### 🎓 B.Tech CSE (Data Science) Student | Class of 2027
   
-# 👋 Hi, I'm <a href="https://linkedin.com/in/manishkumarmahato">Manish Kumar Mahato</a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-URL)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
   
-### 🚀 
-<img src="https://readme-typing-svg.demolab.sh?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Python+Backend+Developer;Django+%26+REST+Framework;Machine+Learning+Enthusiast;Scalable+System+Architect" alt="Typing SVG" />
+  ---
+</div>
+
+## 📖 About Me
+I am a **Data Science** enthusiast dedicated to building efficient, data-driven applications. I spend most of my time refining my **C++** logic for competitive programming and exploring the depths of **Machine Learning**.
+
+- 🔭 **Currently working on:** Advanced Data Structures & Algorithms.
+- ⚡ **Tech Focus:** Turning complex data patterns into actionable insights.
+- 🎯 **Goal:** Mastering AI models and becoming a top-tier Data Scientist.
 
 ---
+
+## 🛠️ Technical Arsenal
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,py,mysql,git,github,vscode,html,css,linux&perline=10" />
+</p>
+
+### 🔬 Specialized in
+**Machine Learning** • **Artificial Intelligence** • **Statistical Analysis** • **Competitive Coding (C++)**
+
+---
+
+## 📊 My GitHub Journey
 
 <p align="center">
-  <a href="https://github.com/manishkumarmahato">
-    <img src="https://img.shields.io/github/followers/manishkumarmahato?label=Follow&style=social">
-  </a>
-  <a href="https://twitter.com/manishkumarmahato">
-    <img src="https://img.shields.io/twitter/follow/manishkumarmahato?label=Twitter&style=social">
-  </a>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Manish-Mahato-2027&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Mahato-2027&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manish-Mahato-2027&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 ---
 
-## 💫 About Me
+## 🏗️ Notable Repositories
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **Data-Science-Projects** | Analysis and predictive modeling using Python. | Python / Jupyter |
+| **DSA-Solutions** | Optimized solutions for coding challenges. | C++ |
+| **Web-Dev** | Responsive frontend designs and interfaces. | HTML / CSS |
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
   
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnN6Znd4ZzR6Znd4ZzR6Znd4ZzR6Znd4ZzR6Znd4ZzR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="250" />
-
-- 🔭 **Working on:** High-concurrency **Django** backends.
-- 🧠 **Learning:** Neural Networks and **LLM** integration.
-- ⚡ **Fun Fact:** I write code that's cleaner than my room.
-- 🤝 **Open to:** Collaborating on **Open Source** data pipelines.
-
-</div>
-
----
-
-## 💻 Tech Stack (Animated)
-
-### ⚙️ Backend & DB
-<p align="left">
-  <a href="https://python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://djangoproject.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> </a>
-  <a href="https://docker.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-</p>
-
-### 🤖 Data Science
-<p align="left">
-  <a href="https://pandas.pydata.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://numpy.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> </a>
-</p>
-
----
-
-## 📊 Performance Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manishkumarmahato&show_icons=true&theme=radical&rank_icon=github" alt="Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishkumarmahato&theme=radical" alt="Streak" />
-</div>
-
----
-
-## 🐍 Activity Map
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manishkumarmahato/manishkumarmahato/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manishkumarmahato/manishkumarmahato/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/manishkumarmahato/manishkumarmahato/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <br />
+  
+  <img src="https://komarev.com/ghpvc/?username=Manish-Mahato-2027&color=00b4d8&style=flat-square&label=PROFILE+VIEWS" />
 </div>
