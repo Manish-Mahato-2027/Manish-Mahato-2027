@@ -21,7 +21,7 @@ I am a **Data Science** enthusiast dedicated to building efficient, data-driven 
 ## 🛠️ Technical Arsenal
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,py,mysql,git,github,vscode,html,css,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,py,mysql,git,github,vscode,html,css,linux&perline=10" />
 </p>
 
 ### 🔬 Specialized in
