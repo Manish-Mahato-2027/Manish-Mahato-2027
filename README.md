@@ -23,7 +23,7 @@ class Manish(Developer):
         return {
             "building": ["RelateAI", "Cazz Karo LLM"],
             "learning": ["Advanced NLP", "FastAPI architectures", "LangChain"],
-            "grinding": "LeetCode (Java/Python)"
+            "grinding": "LeetCode (C++/Python)"
         }
 
     def career_goal(self):
